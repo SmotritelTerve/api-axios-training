@@ -45,7 +45,7 @@ Example:
 ```javascript
 const response = await axios({
 	method: "post",
-	url: "https://jsonplaceholder.typecode.com/posts",
+	url: "https://jsonplaceholder.typicode.com/posts",
 	headers: {
 		'Content-type': 'application/json; charset=UTF-8'
 		},
